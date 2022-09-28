@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello World! <img src="https://github.com/ArjunDhillon/ArjunDhillon/blob/main/programming.gif" width="30px" alt="hecking">
+# Hello World! <img src="https://github.com/ArjunDhillon/ArjunDhillon/blob/main/programming.gif" width="85px" alt="hecking">
 
 </div>
 
